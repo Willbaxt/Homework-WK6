@@ -36,4 +36,4 @@ https://willbaxt.github.io/Homework-WK6/
 ## screenshot
 
 ```
-![screenshot] (assets\images\willbaxt.github.io_Homework-WK6_.png)
+![screenshot] (\assets\images\willbaxt.github.io_Homework-WK6_.png)
